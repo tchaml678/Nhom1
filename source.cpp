@@ -15,7 +15,7 @@ int main()
 	switch (phepToan)
 	{
 	case '+':
-		
+		cout<<"tong = "<<tong(a,b);
 		break;
 	case '-':
 
