@@ -18,7 +18,7 @@ int main()
 		cout<<"tong = "<<tong(a,b);
 		break;
 	case '-':
-
+		cout<<"hieu= "<<hieu(a,b);
 		break;
 	case '*':
 
