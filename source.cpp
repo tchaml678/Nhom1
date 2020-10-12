@@ -21,7 +21,7 @@ int main()
 		cout<<"hieu= "<<hieu(a,b);
 		break;
 	case '*':
-
+		cout<<"Tich = "<<tich(a,b);
 		break;
 	case '/':
 
